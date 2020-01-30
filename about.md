@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+My name is Chi Shing Lee and I am currently a undergraduate student majoring in Computer Science at Hunter College. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 

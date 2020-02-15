@@ -24,5 +24,5 @@ following the same syntax.
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
-|  3   |  [link 1 to contribution](https://www.openstreetmap.org/changeset/81031306)  [link 2 to contribution](https://www.openstreetmap.org/changeset/81031512)|  Contributing to Open Street Map   |  I modified two existing buildings by adding the name of those buildings.    |
+|  3   |  [Changeset 81031306](https://www.openstreetmap.org/changeset/81031306)  [Changeset 81031512](https://www.openstreetmap.org/changeset/81031512)|  Contributing to Open Street Map   |  I modified two existing buildings by adding the name of those buildings.    |
 |     |     |     |      |

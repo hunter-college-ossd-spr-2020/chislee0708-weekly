@@ -26,6 +26,7 @@ following the same syntax.
 |  2   |  [Changeset 81031306](https://www.openstreetmap.org/changeset/81031306)      | Contributing to Open Street Map   |  Modified an existing building by adding the name of the building.     |
 |  3   | [Changeset 81031512](https://www.openstreetmap.org/changeset/81031512)|  Contributing to Open Street Map   |  Modified an existing building by adding the name of the building.    |
 |  4   |  [Changeset 81659706](https://www.openstreetmap.org/changeset/81659706)   |  Contributing to Open Street Map   |   Modified an existing building by adding the name of the building.   |
+| | [Blog Contribution](https://github.com/chislee0708/liulanz-weekly/blob/gh-pages/_posts/2020-02-09-week02.md) | Blog edit | Edited classmate's blog|
 |  5   |  [Changeset 81659754](https://www.openstreetmap.org/changeset/81659754)   |  Contributing to Open Street Map   |   Modified an existing building by adding the name of the building.   |
 |  6   |  [Changeset 81659854](https://www.openstreetmap.org/changeset/81659854)   |  Contributing to Open Street Map   |   Modified an existing building by adding the name of the building.   |
 

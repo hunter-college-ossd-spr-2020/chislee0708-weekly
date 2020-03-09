@@ -9,7 +9,7 @@ My name is Chi Shing Lee and I am currently a undergraduate student majoring in 
 ### More Information
 
 
-I am passionate about learning new skills and technical abilities!
+I am passionate about learning new skills and technical abilities! ___MILK FOAM GREEN TEA___ is my favorite drink!!!
 
 
 

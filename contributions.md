@@ -32,6 +32,9 @@ following the same syntax.
 |     |  [Changeset 81938406](https://www.openstreetmap.org/changeset/81938406)   |  Contributing to Open Street Map   |   Modified an existing building by adding the name of the building.   |
 |     |  [Changeset 81938818](https://www.openstreetmap.org/changeset/81938818)   |  Contributing to Open Street Map   |   Modified two existing building by adding the name of the building and relocating the point of a restaurant.   |
 |     |  [Changeset 81938593](https://www.openstreetmap.org/changeset/81938593)   |  Contributing to Open Street Map   |   Modified an existing building by adding the name of the building.   |
+|  7  |  [Changeset 82234699](https://www.openstreetmap.org/changeset/82234699)   |  Contributing to Open Street Map   |   Modified an existing building by adding the name of the building.   |
+|     |  [Changeset 82234776](https://www.openstreetmap.org/changeset/82234776)   |  Contributing to Open Street Map   |   Modified two existing building by adding the name of the building and relocating the point of a restaurant.   |
+|     |  [Changeset 82234726](https://www.openstreetmap.org/changeset/82234726)   |  Contributing to Open Street Map   |   Modified an existing building by adding the name of the building.   |
 
 
 

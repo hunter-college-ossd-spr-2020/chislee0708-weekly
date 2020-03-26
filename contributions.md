@@ -38,5 +38,7 @@ following the same syntax.
 |  8  |  [Changeset 82497696](https://www.openstreetmap.org/changeset/82497696)   |  Contributing to Open Street Map   |   Modified an existing building by adding the name of the building.   |
 |     |  [Changeset 82497736](https://www.openstreetmap.org/changeset/82497736)   |  Contributing to Open Street Map   |   Modified two existing building by adding the name of the building.  |
 |     |  [Changeset 82497771](https://www.openstreetmap.org/changeset/82497771)   |  Contributing to Open Street Map   |   Added two bus stops   |
+|  9  | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Animal_Crossing%E2%84%A2_New_Horizons_2.jpg)| Contributing to wikipedia | Added a picture|
+|     | [Wikimedia Commons2](https://commons.wikimedia.org/wiki/File:Vita_Organization_logo.png)|  Contributing to wikipedia | Added a logo of a company|
 
 

@@ -38,7 +38,7 @@ following the same syntax.
 |  8  |  [Changeset 82497696](https://www.openstreetmap.org/changeset/82497696)   |  Contributing to Open Street Map   |   Modified an existing building by adding the name of the building.   |
 |     |  [Changeset 82497736](https://www.openstreetmap.org/changeset/82497736)   |  Contributing to Open Street Map   |   Modified two existing building by adding the name of the building.  |
 |     |  [Changeset 82497771](https://www.openstreetmap.org/changeset/82497771)   |  Contributing to Open Street Map   |   Added two bus stops   |
-|  9   | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vita_Organization_logo.png)|  Contributing to wikipedia | Added a logo of a company|
-|      | [Wikimedia Commons2](https://en.wikipedia.org/w/index.php?title=Animal_Crossing:_New_Horizons&oldid=947394968)  | Contributing to wikipedia  |  Added two new links under the External links section |
+|  9   | [Wikipedia](https://es.wikipedia.org/wiki/Animal_Crossing:_New_Horizons)|  Contributing to wikipedia | Added a offical spanish websit into spanish wikipedia|
+|      | [Wikipeida](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88%E5%95%A6%EF%BC%81%E5%8B%95%E7%89%A9%E6%A3%AE%E5%8F%8B%E6%9C%83)  | Contributing to wikipedia  |  Edited the artist's name in the chinese wikipedia |
 
 

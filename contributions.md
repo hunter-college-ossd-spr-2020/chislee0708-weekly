@@ -44,4 +44,7 @@ following the same syntax.
 |      | [Wikipeida](https://en.wikipedia.org/w/index.php?title=Princess_Connect!_Re:Dive&diff=prev&oldid=948596449)  | Contributing to wikipedia  |  Added the artist's name |
 |      |  [Blog Contribution](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/pull/12)  | Blod edited |
  Fixed a broken image |
+ |  11  |  [Changeset 84166791](https://www.openstreetmap.org/changeset/84166791)   |  Contributing to Open Street Map   |   Added Two bus stations.   |
+ |    |  [Changeset 84167067](https://www.openstreetmap.org/changeset/84167067)   |  Contributing to Open Street Map   |  Added Two bus stations.  |
+
 

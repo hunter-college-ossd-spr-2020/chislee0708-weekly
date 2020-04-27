@@ -42,8 +42,7 @@ following the same syntax.
 |      | [Wikipeida](https://zh.wikipedia.org/w/index.php?title=%E9%9B%86%E5%90%88%E5%95%A6%EF%BC%81%E5%8B%95%E7%89%A9%E6%A3%AE%E5%8F%8B%E6%9C%83&diff=prev&oldid=58853726)  | Contributing to wikipedia  |  Edited the artist's name in the chinese wikipedia |
 |  10   | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Princess_Connect!_Re:Dive&diff=prev&oldid=948595163)|  Contributing to wikipedia | Added two character names|
 |      | [Wikipeida](https://en.wikipedia.org/w/index.php?title=Princess_Connect!_Re:Dive&diff=prev&oldid=948596449)  | Contributing to wikipedia  |  Added the artist's name |
-|      |  [Blog Contribution](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/pull/12)  | Blod edited |
- Fixed a broken image |
+|      |  [Blog Contribution](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/pull/12)  | Blod edited | Fixed a broken image |
  |  11  |  [Changeset 84166791](https://www.openstreetmap.org/changeset/84166791)   |  Contributing to Open Street Map   |   Added Two bus stations.   |
  |    |  [Changeset 84167067](https://www.openstreetmap.org/changeset/84167067)   |  Contributing to Open Street Map   |  Added Two bus stations.  |
 

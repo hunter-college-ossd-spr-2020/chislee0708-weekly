@@ -45,5 +45,6 @@ following the same syntax.
 |      |  [Blog Contribution](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/pull/12)  | Blod edited | Fixed a broken image |
  |  11  |  [Changeset 84166791](https://www.openstreetmap.org/changeset/84166791)   |  Contributing to Open Street Map   |   Added Two bus stations.   |
  |    |  [Changeset 84167067](https://www.openstreetmap.org/changeset/84167067)   |  Contributing to Open Street Map   |  Added Two bus stations.  |
-
+ |  12  |  [Changeset 84590694](https://www.openstreetmap.org/changeset/84590694)   |  Contributing to Open Street Map   |   Added Two bus stations.   |
+ |    |  [Changeset 84590792](https://www.openstreetmap.org/changeset/84590792)   |  Contributing to Open Street Map   |  Added Two bus stations.  |
 

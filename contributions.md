@@ -47,4 +47,6 @@ following the same syntax.
  |    |  [Changeset 84167067](https://www.openstreetmap.org/changeset/84167067)   |  Contributing to Open Street Map   |  Added Two bus stations.  |
  |  12  |  [Changeset 84590694](https://www.openstreetmap.org/changeset/84590694)   |  Contributing to Open Street Map   |   Added Two bus stations.   |
  |    |  [Changeset 84590792](https://www.openstreetmap.org/changeset/84590792)   |  Contributing to Open Street Map   |  Added Two bus stations.  |
+  |  13  |  [Changeset 84995047](https://www.openstreetmap.org/changeset/84995047)   |  Contributing to Open Street Map   |   Added Two bus stations.   |
+ |    |  [Changeset 84995120](https://www.openstreetmap.org/changeset/84995120)   |  Contributing to Open Street Map   |  Added Two bus stations.  |
 
